@@ -20,7 +20,7 @@
 
 ## 🔧 Projeto
 
-#### Este projeto teve como objetivo criar uma página web criada com HTML, CSS e Javascript para armazenar sugestões criativas de atividades que podem ser realizadas durante a quarentena.
+#### Este projeto teve como objetivo criar um Web Site Utilizando HTML, CSS e JavaScript para armazenar sugestões criativas de atividades que podem ser realizadas durante a quarentena.
 
 ## :memo: Licença
 
