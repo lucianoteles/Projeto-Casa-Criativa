@@ -1,22 +1,24 @@
-<img src="imagens/logo.png">
+<img src="public/logo.png">
 <h1>Casa Criativa (Projeto em Construção)</h1>
 <p>O projeto <strong>Casa Criativa</strong> foi desenvolvido durante o "WorkshopDev Especial" da Rocketseat ministrado por Mayk Brito</p>
 
 ## 💻 Front-end
 
-<img src="imagens/Captura1.gif">
+<img src="imagens/Captura1.PNG">
+<img src="imagens/Captura3.PNG">
+<img src="imagens/Captura2.PNG">
 
 ## 🚀 Tecnologias utilizadas:
 
   [HTML](https://www.w3schools.com/html/default.asp)
 | [CSS](https://www.w3schools.com/css/)
 | [JavaScript](https://www.w3schools.com/js/)
+| [Node.js](https://nodejs.org/en/)
+| [Express](https://www.npmjs.com/package/express)
+| [Nunjucks](https://www.npmjs.com/package/nunjucks)
+| [Nodemon](https://www.npmjs.com/package/nodemon)
+| [SQLite]()
 
-- Express
-- Nunjucks
-- Nodemon 
-- SQLite
-- Node.js
 
 ## 🔧 Projeto
 
