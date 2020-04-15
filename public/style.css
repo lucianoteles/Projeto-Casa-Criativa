@@ -142,8 +142,8 @@ footer a{
 }
 
 #modal{
+    position: fixed;
     background: #ff5E84;
-
     position: absolute;
     top: 0;
     bottom: 0;
