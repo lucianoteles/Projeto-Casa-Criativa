@@ -7,7 +7,6 @@
         .toggle("hide")
 
         //toggle = colocar e tirar 
+}   
 
-}
- 
-
+    
