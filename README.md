@@ -17,7 +17,7 @@
   - [Express](https://www.npmjs.com/package/express)
   - [Nunjucks](https://www.npmjs.com/package/nunjucks)
   - [Nodemon](https://www.npmjs.com/package/nodemon)
-  - [SQLite](https://www.npmjs.com/package/sqlite3)
+  - [SQLite3](https://www.npmjs.com/package/sqlite3)
 
 
 ## 🔧 Projeto
