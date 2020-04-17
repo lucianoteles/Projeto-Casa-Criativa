@@ -10,14 +10,14 @@
 
 ## 🚀 Tecnologias utilizadas:
 
-  - [HTML](https://www.w3schools.com/html/default.asp);
-  - [CSS](https://www.w3schools.com/css/);
-  - [JavaScript](https://www.w3schools.com/js/);
-  - [Node.js](https://nodejs.org/en/);
-  - [Express](https://www.npmjs.com/package/express);
-  - [Nunjucks](https://www.npmjs.com/package/nunjucks);
-  - [Nodemon](https://www.npmjs.com/package/nodemon);
-  - [SQLite3](https://www.npmjs.com/package/sqlite3).
+  - [HTML](https://www.w3schools.com/html/default.asp)
+  - [CSS](https://www.w3schools.com/css/)
+  - [JavaScript](https://www.w3schools.com/js/)
+  - [Node.js](https://nodejs.org/en/)
+  - [Express](https://www.npmjs.com/package/express)
+  - [Nunjucks](https://www.npmjs.com/package/nunjucks)
+  - [Nodemon](https://www.npmjs.com/package/nodemon)
+  - [SQLite3](https://www.npmjs.com/package/sqlite3)
 
 
 ## 🔧 Projeto

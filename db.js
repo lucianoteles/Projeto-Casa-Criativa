@@ -13,30 +13,30 @@ db.serialize(function(){
             link TEXT
         );
   `)
-  //inserir dados na tabela
-  //const query = `
-  //INSERT INTO ideias (
- //   image,
- //   title,
- //   category,
- //   description,
-  //  link
- // ) VALUES(?,?,?,?,?);
-  //`
+// //inserir dados na tabela
+//   const query = `
+//   INSERT INTO ideias (
+//    image,
+//    title,
+//    category,
+//    description,
+//    link
+//  ) VALUES(?,?,?,?,?);
+//   `
 
 //  const values=[
- //   "https://image.flaticon.com/icons/svg/1995/1995485.svg",
+//    "https://image.flaticon.com/icons/svg/1995/1995485.svg",
 //    "Cursos de Programação",
- //   "Estudo",
- //   "Lorem, ipsum dolor sit amet consectetur adipisicing elit. Cupiditate veniam eos itaque repellendus obcaecati nobis. Pariatur deleniti dicta amet? Adipisci, ipsum ipsa. Animi itaque aliquam, nisi quia obcaecati sit nesciunt?",
+//    "Estudo",
+//    "Lorem, ipsum dolor sit amet consectetur adipisicing elit. Cupiditate veniam eos itaque repellendus obcaecati nobis. Pariatur deleniti dicta amet? Adipisci, ipsum ipsa. Animi itaque aliquam, nisi quia obcaecati sit nesciunt?",
 //    "https://github.com/LucianoAlvesTeles"    
- // ]
+//  ]
   
- // db.run(query, values, function(err){
- //     if(err) return console.log(err)
+//  db.run(query, values, function(err){
+//      if(err) return console.log(err)
 
- //     console.log(this)
- //})
+//      console.log(this)
+//  })
 
 
  //deletar um dado na tabela
@@ -57,3 +57,4 @@ db.serialize(function(){
 
 module.exports = db
 
+//utiliza-se //node db.js// para rodar o sql escrito neste documento.
