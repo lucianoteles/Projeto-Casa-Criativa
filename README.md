@@ -1,5 +1,5 @@
 <img src="public/logo.png">
-<h1>Casa Criativa (Projeto em Construção)</h1>
+<h1>Casa Criativa</h1>
 <p>O projeto <strong>Casa Criativa</strong> foi desenvolvido durante o "WorkshopDev Especial" da Rocketseat ministrado por Mayk Brito</p>
 
 ## 💻 Front-end
