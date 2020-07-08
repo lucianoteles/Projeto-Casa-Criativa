@@ -3,12 +3,6 @@
 <p>O projeto <strong>Casa Criativa</strong> foi desenvolvido durante o "WorkshopDev Especial" da Rocketseat ministrado por Mayk Brito</p>
 <p>Este projeto teve como objetivo criar um Web Site Utilizando HTML, CSS e JavaScript para armazenar sugestões criativas de atividades que podem ser realizadas durante a quarentena.</p>
 
-## Front-end
-
-<img src="imagens/Captura1.PNG">
-<img src="imagens/Captura3.PNG">
-<img src="imagens/Captura2.PNG">
-
 ## Tecnologias utilizadas:
 
   - [HTML](https://www.w3schools.com/html/default.asp)
@@ -19,6 +13,12 @@
   - [Nunjucks](https://www.npmjs.com/package/nunjucks)
   - [Nodemon](https://www.npmjs.com/package/nodemon)
   - [SQLite3](https://www.npmjs.com/package/sqlite3)
+
+## Front-end
+
+<img src="imagens/Captura1.PNG">
+<img src="imagens/Captura3.PNG">
+<img src="imagens/Captura2.PNG">
 
 ## Licença
 
