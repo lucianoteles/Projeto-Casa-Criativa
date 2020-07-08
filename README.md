@@ -24,4 +24,4 @@
 
 #### Esse projeto está sob a licença [MIT](./LICENSE). Veja o arquivo [LICENSE](./LICENSE) para mais detalhes.
 
-Feito com ❤️ Luciano Teles
+
